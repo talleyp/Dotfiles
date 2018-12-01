@@ -1,4 +1,4 @@
-set nocomptible " ward off unexpected things
+set nocompatible" ward off unexpected things
 
 syntax on " syntax highlighting
 
